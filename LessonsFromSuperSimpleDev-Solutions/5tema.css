@@ -1,0 +1,29 @@
+.text-box{
+  display: flex;
+  font-family: Arial;
+  flex-direction: column;
+  width: 500px;
+}
+.author{
+  display: flex;
+  flex-direction: row;
+}
+.name{
+  font-weight: bold;
+  margin-right: 5px;
+}
+.user{
+  color: rgb(194, 194, 194);
+  cursor: pointer;
+}
+.text1{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.text2{
+  margin-bottom: 10px;
+}
+.tag{
+  color: rgb(138, 199, 219);
+  cursor: pointer;
+}

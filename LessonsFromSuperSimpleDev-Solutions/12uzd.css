@@ -1,0 +1,15 @@
+.flexbox{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-style: solid;
+  border-color: gray;
+  border-width: 1px;
+  height: 70px;
+}
+.pirmas{
+  background-color: lightblue;
+}
+.antras{
+  background-color: lightpink;
+}

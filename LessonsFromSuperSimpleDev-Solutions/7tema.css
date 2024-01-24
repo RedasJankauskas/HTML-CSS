@@ -1,0 +1,28 @@
+.fotke{
+  width: 50px;
+  object-fit: cover;
+  height: 50px;
+  vertical-align: middle;
+  border-radius: 25px;
+  margin-right: 5px;
+}
+.input{
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 200px;
+vertical-align: middle;}
+
+.button{
+  background-color: rgb(98, 140, 255);
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 9px;
+  padding-right: 9px;
+  color: white;
+  border-radius: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  vertical-align: middle;
+}

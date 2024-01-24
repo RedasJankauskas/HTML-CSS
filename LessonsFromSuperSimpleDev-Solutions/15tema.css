@@ -1,0 +1,46 @@
+.container{
+  width: 300px;
+  height: 300px;
+  position: relative;
+  display: inline-block;
+}
+.fotke{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+.discount{
+  position: absolute;
+  top: 15px;
+  right: 0px;
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  font-family: arial;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.container-hover{
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  height: 100px;
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.add{
+  background-color: white;
+  padding-right: 12px;
+  padding-left: 12px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  cursor: pointer;
+  border-style: solid;
+  border-width: 1px;
+  font-family: arial;
+}

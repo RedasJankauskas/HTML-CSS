@@ -1,0 +1,31 @@
+.image{
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  vertical-align: middle;
+  border: none;
+  border-radius: 25px;
+  margin-right: 5px;
+}
+.inputas{
+  border: none;
+  color:rgb(100,100,100);
+  padding-left: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 17px;
+  width: 250px;
+  vertical-align: middle;
+}
+.button{
+  background-color: rgb(75, 75, 244);
+  border: none;
+  font-weight: bold;
+  border-radius: 16px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: white;
+  vertical-align: middle;
+}
