@@ -53,6 +53,7 @@
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
   padding-left: 12px;
+  outline: none;
 }
 .searchbar::placeholder{
   font-size: 14px;
